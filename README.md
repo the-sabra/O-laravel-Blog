@@ -1,6 +1,6 @@
-# Morph Blog
+# O laravel Blog
 
-This project is a web application built using the Laravel Filament admin panel framework. The dashboard serves as a versatile platform that enables users to register, log in, add posts, and engage in discussions through comments. Additionally, it features an administrative account for content moderatio
+This project is a web application built using the Laravel Filament admin panel framework. The dashboard is a versatile platform enabling users to register, log in, add posts, and engage in discussions through comments. Additionally, it features an administrative account for content moderation
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ The project also includes an admin account built with `filamentphp` to manage an
 
 ## Features
 
--   User Authentication: Register and log in functionality with `JWT`.
+-   User Authentication: Register and login functionality with `JWT`.
 -   Post Management: Users can add posts, and others can view and comment on them.
 -   Admin Dashboard: An admin account for managing and deleting posts.
 
@@ -49,7 +49,7 @@ Follow these steps to set up and run the project locally:
     php artisan serve
     ````
 
-## Simple Example about API routes 
+## Simple Example of API routes 
 
 `/auth/register`: this for register new user(author)
 
